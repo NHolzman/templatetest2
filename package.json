@@ -25,6 +25,6 @@
     "deploy": "wrangler deploy",
     "dev": "wrangler dev",
     "start": "wrangler dev",
-    "build": "wrangler deploy"  // Added build script
+    "build": "wrangler deploy"
   }
 }
