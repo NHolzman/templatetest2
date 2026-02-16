@@ -2,7 +2,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "sweet-sea-3c4a",
 	"main": "src/index.ts",
-	"compatibility_date": "2025-10-08",
+	"compatibility_date": "2025-10-09",
 	"upload_source_maps": true,
 	"migrations": [
 		{
